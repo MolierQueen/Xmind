@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T10:46:20.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="sUj2J7ebBu5oEpaH-uPA" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T12:59:27.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="TAe0thC78yDrdSbUKLDx" version="14.8.4" type="github">
   <diagram id="AZSGmnTD27FDiJ8ZZ5N1" name="Page-1">
     <mxGraphModel dx="2866" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,6 +295,15 @@
         </mxCell>
         <mxCell id="tynLuWOkbW0R-v78KJ2Y-120" value="RecordResource&lt;br&gt;Manager" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;arcSize=14;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="174" y="-136" width="198" height="1128" as="geometry" />
+        </mxCell>
+        <mxCell id="tynLuWOkbW0R-v78KJ2Y-124" value="拉取伴奏信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="-22" width="151" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="tynLuWOkbW0R-v78KJ2Y-125" value="判断版权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="193" y="80" width="151" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="tynLuWOkbW0R-v78KJ2Y-126" value="录制必要伴奏文件下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="182" width="151" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
