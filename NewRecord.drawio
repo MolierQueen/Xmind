@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T09:34:41.023Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="TQkuOF_uJNFnPE9kCD-Q" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-17T09:35:28.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="NQDL8ewR5CgMpSEyr-BV" version="14.8.5" type="github">
   <diagram id="AZSGmnTD27FDiJ8ZZ5N1" name="Page-1">
     <mxGraphModel dx="3751" dy="1934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="Zn5ys0qhDUj7Q-W8t8vE-74" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;8：短MV发起&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;SponsorChorus_HookMV&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="-157" width="277" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="W_5h1LejH2wpQsNXanha-53" value="一些其他通用函数" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="625" y="145" width="179" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
