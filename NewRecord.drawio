@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T09:29:23.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="oFWSnFUxlumfq_gCQtY7" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-17T09:34:41.023Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="TQkuOF_uJNFnPE9kCD-Q" version="14.8.5" type="github">
   <diagram id="AZSGmnTD27FDiJ8ZZ5N1" name="Page-1">
     <mxGraphModel dx="3751" dy="1934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zn5ys0qhDUj7Q-W8t8vE-63" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;StrategyManager&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-304.5" y="-342" width="1352" height="277" as="geometry" />
+          <mxGeometry x="-304.5" y="-293" width="1352" height="228" as="geometry" />
         </mxCell>
         <mxCell id="Zn5ys0qhDUj7Q-W8t8vE-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="Zn5ys0qhDUj7Q-W8t8vE-76" target="Zn5ys0qhDUj7Q-W8t8vE-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -194,7 +194,7 @@
             <mxPoint x="995" y="601" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W_5h1LejH2wpQsNXanha-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;RecordingFlow&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBackgroundColor=#D5E8D4;" vertex="1" connectable="0" parent="W_5h1LejH2wpQsNXanha-36">
+        <mxCell id="W_5h1LejH2wpQsNXanha-39" value="&lt;span style=&quot;font-size: 24px&quot;&gt;RecordingFlow（由FlowManager驱动且不可逆）&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;labelBackgroundColor=#D5E8D4;" vertex="1" connectable="0" parent="W_5h1LejH2wpQsNXanha-36">
           <mxGeometry x="-0.0425" y="-1" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
