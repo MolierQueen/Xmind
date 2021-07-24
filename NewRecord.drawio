@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T08:45:28.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="zNeChIUoEc70YWsMkM97" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T08:48:41.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55" etag="EelpZoLv3k1_vkpbxMIv" version="14.9.2" type="github">
   <diagram id="AZSGmnTD27FDiJ8ZZ5N1" name="Page-1">
     <mxGraphModel dx="2866" dy="1954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zn5ys0qhDUj7Q-W8t8vE-89" value="VideoRecordManager" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-257" y="835" width="404" height="124" as="geometry" />
+          <mxGeometry x="-257" y="835" width="624" height="124" as="geometry" />
         </mxCell>
         <mxCell id="Zn5ys0qhDUj7Q-W8t8vE-79" value="&lt;div style=&quot;font-size: 16px&quot;&gt;录唱前置节点&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;RecrodingPrepareController&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;_subClass&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-148" y="571.5" width="260" height="92.5" as="geometry" />
@@ -205,25 +205,25 @@
           <mxGeometry x="358.5" y="-157" width="277" height="53" as="geometry" />
         </mxCell>
         <mxCell id="iGo3f967UquZ_0_zFBQz-1" value="视频权限" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-245" y="871" width="120" height="60" as="geometry" />
+          <mxGeometry x="-244" y="870" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGo3f967UquZ_0_zFBQz-2" value="美颜滤镜" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-115" y="871" width="120" height="60" as="geometry" />
+          <mxGeometry x="-43" y="870" width="179" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGo3f967UquZ_0_zFBQz-3" value="其他视频相关参数" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="16" y="871" width="120" height="60" as="geometry" />
+          <mxGeometry x="157" y="870" width="196" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGo3f967UquZ_0_zFBQz-4" value="AudioRecordManager" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="176.5" y="835" width="404" height="124" as="geometry" />
+          <mxGeometry x="432" y="832" width="596.5" height="127" as="geometry" />
         </mxCell>
         <mxCell id="iGo3f967UquZ_0_zFBQz-5" value="麦克风权限" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="187" y="871" width="120" height="60" as="geometry" />
+          <mxGeometry x="442.5" y="870" width="182" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGo3f967UquZ_0_zFBQz-6" value="KsongKit" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="318.5" y="871" width="120" height="60" as="geometry" />
+          <mxGeometry x="651.5" y="870" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGo3f967UquZ_0_zFBQz-7" value="其他音频相关参数" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="453" y="871" width="120" height="60" as="geometry" />
+          <mxGeometry x="842.5" y="870" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGo3f967UquZ_0_zFBQz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="Zn5ys0qhDUj7Q-W8t8vE-100" target="Zn5ys0qhDUj7Q-W8t8vE-94">
           <mxGeometry relative="1" as="geometry" />
